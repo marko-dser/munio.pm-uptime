@@ -63,7 +63,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: true
-  useLogo: false
+  useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: none
