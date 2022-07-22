@@ -38,12 +38,14 @@ params:
   down: "#e60000"
   systems:
     - name: Kursversorgung
-      description: Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen
-        Papiere up-to-date sind
+      description: >-
+        Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen Papiere
+        up-to-date sind
       category: GSAM
     - name: Kursversorgung
-      description: Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen
-        Papiere up-to-date sind
+      description: >-
+        Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen Papiere
+        up-to-date sind
       category: Bank für Kirche und Diakonie
     - name: Kursversorgung
       description: Kursversorgung aktuell bei Smavesto
