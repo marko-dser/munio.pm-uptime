@@ -1,7 +1,7 @@
 ---
 section: issue
 title: FIX Verbindung fehlgeschlagen
-date: 2022-07-13T02:32:00.000Z
+date: 2022-07-22T04:39:05.074Z
 resolved: true
 draft: false
 informational: false
