@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://munio.pm/issues/</loc>
+    <lastmod>2022-07-22T06:59:34+02:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/issues/test-vorfall3_2022-0-22/</loc>
+    <lastmod>2022-07-22T06:59:34+02:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/</loc>
+    <lastmod>2022-07-22T06:59:34+02:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/affected/</loc>
+    <lastmod>2022-07-22T04:39:09+00:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/affected/fix-verbindung/</loc>
+    <lastmod>2022-07-22T04:39:09+00:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</loc>
+    <lastmod>2022-07-22T04:39:09+00:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/issues/test-vorfall_2022-0-21/</loc>
+    <lastmod>2022-07-22T04:40:21+00:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/issues/my-first-auto-content/</loc>
+    <lastmod>2022-07-19T11:25:09+00:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/pages/example-page/</loc>
+    <lastmod>2019-04-08T21:48:39+03:00</lastmod>
+  </url><url>
+    <loc>https://munio.pm/pages/</loc>
+    <lastmod>2019-04-08T21:48:39+03:00</lastmod>
+  </url>
+</urlset>

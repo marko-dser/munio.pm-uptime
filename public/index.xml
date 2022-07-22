@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Munio.pm Status Überblick</title>
+    <link>https://munio.pm/</link>
+    <description>Recent content on Munio.pm Status Überblick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 22 Jul 2022 04:59:33 +0000</lastBuildDate><atom:link href="https://munio.pm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kursversorgung am 22.07.2022 massiv gestört</title>
+      <link>https://munio.pm/issues/test-vorfall3_2022-0-22/</link>
+      <pubDate>Fri, 22 Jul 2022 04:59:33 +0000</pubDate>
+      
+      <guid>https://munio.pm/issues/test-vorfall3_2022-0-22/</guid>
+      <description>*Investigating* Wir verzeichnen gerade Probleme mit unserer Kursversorgung. Unsere Experten arbeiten mit Hochdruck an einer Lösung! </description>
+    </item>
+    
+    <item>
+      <title>FIX Verbindung fehlgeschlagen</title>
+      <link>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</link>
+      <pubDate>Fri, 22 Jul 2022 04:39:05 +0000</pubDate>
+      
+      <guid>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</guid>
+      <description>Investigating - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.</description>
+    </item>
+    
+    <item>
+      <title>Test Kursupdater down from new component</title>
+      <link>https://munio.pm/issues/test-vorfall_2022-0-21/</link>
+      <pubDate>Fri, 22 Jul 2022 04:37:57 +0000</pubDate>
+      
+      <guid>https://munio.pm/issues/test-vorfall_2022-0-21/</guid>
+      <description>Dies ist ein kleiner Test</description>
+    </item>
+    
+    <item>
+      <title> Test-Vorfall auto-generated</title>
+      <link>https://munio.pm/issues/my-first-auto-content/</link>
+      <pubDate>Tue, 19 Jul 2022 11:24:43 +0000</pubDate>
+      
+      <guid>https://munio.pm/issues/my-first-auto-content/</guid>
+      <description>---section: issue title: Test-Vorfall auto-generated date: 2022-07-18T11:57:13.276Z resolved: false informational: false affected:
+Kursversorgung severity: disrupted Notiz - Dieser Issue wurde automatisch generiert!</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>https://munio.pm/pages/example-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://munio.pm/pages/example-page/</guid>
+      <description>Title here! This is an example page that demonstrates the capabilities of a Markdown page in cState.
+You can use HTML if the file extension is .html, but this one is .md.
+Let us dive in.
+Paragraphs are separated by a blank line.
+2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
+this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.</description>
+    </item>
+    
+  </channel>
+</rss>
