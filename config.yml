@@ -56,6 +56,9 @@ params:
     - name: Datenimport BaaderBank
       description: checkt ob der Datenimport bei der BaaderBank durchgelaufen ist
       category: Smavesto
+    - name: Kursversorgung
+      category: Hauck & Aufhäuser
+      description: Kursversorgung für H&A
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -82,6 +85,9 @@ params:
       closed: false
     - name: Merck Finck
       description: Überwachungsmodule der Merck Finck Bank
+      closed: false
+    - name: Hauck & Aufhäuser
+      description: Überwachungsmodule für H&A
       closed: false
   description: Wir überwachen permanent unsere System und melden Ausfälle über diesen Kanal
   enableCustomHTML: true
