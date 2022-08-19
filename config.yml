@@ -62,6 +62,9 @@ params:
     - name: ebase
       category: MarkoBank
       description: Import
+    - name: DepotB Import
+      category: MarkoBank
+      description: Import der Volksbank-Daten produktiv
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
