@@ -37,26 +37,32 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Kursversorgung
+    - &ref_0
+      name: Kursversorgung
       description: >-
         Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen Papiere
         up-to-date sind
       category: GSAM
-    - name: Kursversorgung
+    - &ref_1
+      name: Kursversorgung
       description: >-
         Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen Papiere
         up-to-date sind
       category: Bank für Kirche und Diakonie
-    - name: Kursversorgung
+    - &ref_2
+      name: Kursversorgung
       description: Kursversorgung aktuell bei Smavesto
       category: Smavesto
-    - name: FIX Verbindung
+    - &ref_3
+      name: FIX Verbindung
       description: FIX Verbindung für das Ordering aktuell
       category: Smavesto
-    - name: Datenimport BaaderBank
+    - &ref_4
+      name: Datenimport BaaderBank
       description: checkt ob der Datenimport bei der BaaderBank durchgelaufen ist
       category: Smavesto
-    - name: Kursversorgung
+    - &ref_5
+      name: Kursversorgung
       category: Hauck & Aufhäuser
       description: Kursversorgung für H&A
   dateFormat: January 2, 2006 at 3:04 PM UTC
@@ -98,3 +104,13 @@ params:
   description: Wir überwachen permanent unsere System und melden Ausfälle über diesen Kanal
   enableCustomHTML: true
   useLargeHeaderDesign: false
+  system:
+    - *ref_0
+    - *ref_1
+    - *ref_2
+    - *ref_3
+    - *ref_4
+    - *ref_5
+    - name: BaaderBank-Import
+      category: MarkoBank2
+      description: Import
