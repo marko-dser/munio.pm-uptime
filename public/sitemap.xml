@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2022-07-22T16:06:15+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/issues/</loc>
-    <lastmod>2022-07-22T16:06:15+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/issues/test-vorfall3_2022-0-22/</loc>
-    <lastmod>2022-07-22T16:05:41+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/affected/</loc>
-    <lastmod>2022-07-22T04:39:09+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/affected/fix-verbindung/</loc>
-    <lastmod>2022-07-22T04:39:09+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</loc>
-    <lastmod>2022-07-22T04:39:09+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/issues/test-vorfall_2022-0-21/</loc>
-    <lastmod>2022-07-22T16:06:15+00:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/pages/example-page/</loc>
-    <lastmod>2019-04-08T21:48:39+03:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url><url>
     <loc>https://example.com/pages/</loc>
-    <lastmod>2019-04-08T21:48:39+03:00</lastmod>
+    <lastmod>2022-08-19T08:40:44+01:00</lastmod>
   </url>
 </urlset>
