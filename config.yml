@@ -92,6 +92,9 @@ params:
     - name: MarkoBank
       description: TestBank
       closed: false
+    - name: MarkoBank2
+      description: TestBank2
+      closed: false
   description: Wir überwachen permanent unsere System und melden Ausfälle über diesen Kanal
   enableCustomHTML: true
   useLargeHeaderDesign: false
