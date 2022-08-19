@@ -59,6 +59,9 @@ params:
     - name: Kursversorgung
       category: Hauck & Aufhäuser
       description: Kursversorgung für H&A
+    - name: ebase
+      category: MarkoBank
+      description: Import
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
