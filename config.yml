@@ -89,6 +89,9 @@ params:
     - name: Hauck & Aufhäuser
       description: Überwachungsmodule für H&A
       closed: false
+    - name: MarkoBank
+      description: TestBank
+      closed: false
   description: Wir überwachen permanent unsere System und melden Ausfälle über diesen Kanal
   enableCustomHTML: true
   useLargeHeaderDesign: false
