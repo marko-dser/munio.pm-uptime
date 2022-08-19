@@ -1,0 +1,50 @@
+{
+  "is": "issues",
+  "title": "Issues",
+  "baseURL": "https://munio.pm", 
+  "description": "",
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Kursversorgung am 22.07.2022 massiv gestört",
+        "createdAt": "2022-07-22 04:59:33.475 +0000 UTC",
+        "lastMod": "2022-08-19 08:40:44 +0100 +0100",
+        "permalink": "https://munio.pm/issues/test-vorfall3_2022-0-22/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2022-07-22T16:05:23.880Z",
+        "affected": [],
+        "filename": "test-vorfall3_2022-0-22.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "FIX Verbindung fehlgeschlagen",
+        "createdAt": "2022-07-22 04:39:05.074 +0000 UTC",
+        "lastMod": "2022-08-19 08:40:44 +0100 +0100",
+        "permalink": "https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2022-07-13T14:32:48.608Z",
+        "affected": ["FIX Verbindung"],
+        "filename": "2022-07-13-fix-verbindung-fehlgeschlagen.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "Test Kursupdater down from new component",
+        "createdAt": "2022-07-22 04:37:57.134 +0000 UTC",
+        "lastMod": "2022-08-19 08:40:44 +0100 +0100",
+        "permalink": "https://munio.pm/issues/test-vorfall_2022-0-21/",
+        "severity": "disrupted",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": [],
+        "filename": "test-vorfall_2022-0-21.md"
+      }
+    
+  ]
+}

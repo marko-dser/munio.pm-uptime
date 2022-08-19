@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "Test Kursupdater down from new component",
+  "createdAt": "2022-07-22 04:37:57.134 +0000 UTC",
+  "lastMod": "2022-08-19 08:40:44 +0100 +0100",
+  "permalink": "https://munio.pm/issues/test-vorfall_2022-0-21/",
+  "severity": "disrupted",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "<no value>",
+  "affected": [],
+  "filename": "test-vorfall_2022-0-21.md"
+}

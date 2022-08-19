@@ -1,0 +1,13 @@
+{
+  "is": "issue",
+  "title": "FIX Verbindung fehlgeschlagen",
+  "createdAt": "2022-07-22 04:39:05.074 +0000 UTC",
+  "lastMod": "2022-08-19 08:40:44 +0100 +0100",
+  "permalink": "https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/",
+  "severity": "disrupted",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2022-07-13T14:32:48.608Z",
+  "affected": ["FIX Verbindung"],
+  "filename": "2022-07-13-fix-verbindung-fehlgeschlagen.md"
+}

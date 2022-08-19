@@ -1,38 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Issues on Eggsample Status</title>
-    <link>https://example.com/issues/</link>
-    <description>Recent content in Issues on Eggsample Status</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 22 Jul 2022 04:59:33 +0000</lastBuildDate><atom:link href="https://example.com/issues/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kursversorgung am 22.07.2022 massiv gestört</title>
-      <link>https://example.com/issues/test-vorfall3_2022-0-22/</link>
-      <pubDate>Fri, 22 Jul 2022 04:59:33 +0000</pubDate>
-      
-      <guid>https://example.com/issues/test-vorfall3_2022-0-22/</guid>
-      <description>*Investigating* Wir verzeichnen gerade Probleme mit unserer Kursversorgung. Unsere Experten arbeiten mit Hochdruck an einer Lösung! </description>
-    </item>
+    <link rel="alternate" type="text/html" href="https://munio.pm"/>
+    <title>Issues on Munio.pm Status Überblick</title>
+    <link>https://munio.pm/issues/</link>
+    <description>Vorfallshistorie</description>
+    <generator>github.com/cstate</generator>
+    <language>de</language>
     
-    <item>
-      <title>FIX Verbindung fehlgeschlagen</title>
-      <link>https://example.com/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</link>
-      <pubDate>Fri, 22 Jul 2022 04:39:05 +0000</pubDate>
-      
-      <guid>https://example.com/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</guid>
-      <description>Investigating - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.</description>
-    </item>
+    <lastBuildDate>2022-07-22T04:59:33+00:00</lastBuildDate>
+    <updated>2022-07-22T04:59:33+00:00</updated>
     
-    <item>
-      <title>Test Kursupdater down from new component</title>
-      <link>https://example.com/issues/test-vorfall_2022-0-21/</link>
-      <pubDate>Fri, 22 Jul 2022 04:37:57 +0000</pubDate>
-      
-      <guid>https://example.com/issues/test-vorfall_2022-0-21/</guid>
-      <description>Dies ist ein kleiner Test</description>
-    </item>
+    
+    
+      <atom:link href="https://munio.pm/issues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Gelöst] Kursversorgung am 22.07.2022 massiv gestört</title>
+        <link>https://munio.pm/issues/test-vorfall3_2022-0-22/</link>
+        <pubDate>Fri, 22 Jul 2022 04:59:33 +0000</pubDate>
+        <guid>https://munio.pm/issues/test-vorfall3_2022-0-22/</guid>
+        <category>2022-07-22T16:05:23.880Z</category>
+        <description>*Investigating* Wir verzeichnen gerade Probleme mit unserer Kursversorgung. Unsere Experten arbeiten mit Hochdruck an einer Lösung! </description>
+        <content type="html">&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;*Investigating* Wir verzeichnen gerade Probleme mit unserer Kursversorgung. 
+Unsere Experten arbeiten mit Hochdruck an einer Lösung!
+&lt;/code&gt;&lt;/pre&gt;</content>
+      </item>
+    
+      <item>
+        <title>[Gelöst] FIX Verbindung fehlgeschlagen</title>
+        <link>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</link>
+        <pubDate>Fri, 22 Jul 2022 04:39:05 +0000</pubDate>
+        <guid>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</guid>
+        <category>2022-07-13T14:32:48.608Z</category>
+        <description>Investigating - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>Test Kursupdater down from new component</title>
+        <link>https://munio.pm/issues/test-vorfall_2022-0-21/</link>
+        <pubDate>Fri, 22 Jul 2022 04:37:57 +0000</pubDate>
+        <guid>https://munio.pm/issues/test-vorfall_2022-0-21/</guid>
+        <category></category>
+        <description>Dies ist ein kleiner Test</description>
+        <content type="html">&lt;p&gt;Dies ist ein kleiner Test&lt;/p&gt;
+</content>
+      </item>
     
   </channel>
 </rss>

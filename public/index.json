@@ -1,0 +1,131 @@
+{
+  "is": "index",
+  "cStateVersion": "5.4",
+  "apiVersion": "2.0",
+  "title": "Munio.pm Status Überblick",
+  "languageCodeHTML": "de",
+  "languageCode": "de",
+  "baseURL": "https://munio.pm", 
+  "description": "Wir überwachen permanent unsere System und melden Ausfälle über diesen Kanal",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "GSAM",
+        "description": "Überwachungsmodule GSAM",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Smavesto",
+        "description": "Überwachun",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Bank für Kirche und Diakonie",
+        "description": "Überwachungsmodule der Bank für Kirche und Diakonie",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Merck Finck",
+        "description": "Überwachungsmodule der Merck Finck Bank",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "Hauck & Aufhäuser",
+        "description": "Überwachungsmodule für H&A",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "MarkoBank",
+        "description": "TestBank",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    
+  ],
+  "systems": [
+    
+      {
+        "name": "Kursversorgung",
+        "description": "Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen Papiere up-to-date sind",
+        "category": "GSAM", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kursversorgung",
+        "description": "Prüft, ob alle Kurse der Hausmeinung und in Bestand befindlichen Papiere up-to-date sind",
+        "category": "Bank für Kirche und Diakonie", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kursversorgung",
+        "description": "Kursversorgung aktuell bei Smavesto",
+        "category": "Smavesto", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "FIX Verbindung",
+        "description": "FIX Verbindung für das Ordering aktuell",
+        "category": "Smavesto", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Datenimport BaaderBank",
+        "description": "checkt ob der Datenimport bei der BaaderBank durchgelaufen ist",
+        "category": "Smavesto", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Kursversorgung",
+        "description": "Kursversorgung für H&A",
+        "category": "Hauck & Aufhäuser", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2022-08-19",
+  "buildTime": "10:08",
+  "buildTimezone": "CEST",
+  "colorBrand": "#0a0c0f",
+  "colorOk": "#008000",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "https://munio.pm/img/dser-logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}
