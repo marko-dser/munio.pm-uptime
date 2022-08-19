@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FIX Verbindung on Munio.pm Status Überblick</title>
-    <link>https://munio.pm/affected/fix-verbindung/</link>
-    <description>Recent content in FIX Verbindung on Munio.pm Status Überblick</description>
+    <title>FIX Verbindung on Eggsample Status</title>
+    <link>https://example.com/affected/fix-verbindung/</link>
+    <description>Recent content in FIX Verbindung on Eggsample Status</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Fri, 22 Jul 2022 04:39:05 +0000</lastBuildDate><atom:link href="https://munio.pm/affected/fix-verbindung/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Jul 2022 04:39:05 +0000</lastBuildDate><atom:link href="https://example.com/affected/fix-verbindung/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FIX Verbindung fehlgeschlagen</title>
-      <link>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</link>
+      <link>https://example.com/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</link>
       <pubDate>Fri, 22 Jul 2022 04:39:05 +0000</pubDate>
       
-      <guid>https://munio.pm/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</guid>
+      <guid>https://example.com/issues/2022-07-13-fix-verbindung-fehlgeschlagen/</guid>
       <description>Investigating - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.</description>
     </item>
     
